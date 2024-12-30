@@ -1,4 +1,4 @@
-# Hi there, I am Quentin ERDINGER 👋
+# Hi there, I am Quentin 👋
 
 
 I'm a passionate developer who loves creating innovative solutions and exploring new technologies. Welcome to my GitHub profile, where I share my projects, contributions, and experiments in coding!
@@ -29,8 +29,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ![Swift](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=FA7343)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)  
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=sql&logoColor=white&color=003B57)
-![NoSQL](https://img.shields.io/badge/Code-NoSQL-informational?style=flat&logo=mongodb&logoColor=white&color=47A248)
 
 ![Frameworks](https://img.shields.io/badge/Frameworks-Frameworks-informational?style=flat&logo=code&logoColor=white&color=000000)  
 ![DotNet](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
@@ -39,20 +37,12 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ![ASP.NET](https://img.shields.io/badge/Code-ASP.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
 ![SwiftUI](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=FA7343)
 
-![Tools](https://img.shields.io/badge/Tools-Tools-informational?style=flat&logo=code&logoColor=white&color=000000)  
-![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717)
-![GitLab](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121)
-![GitKraken](https://img.shields.io/badge/Tools-GitKraken-informational?style=flat&logo=gitkraken&logoColor=white&color=008C4A)
-
 ![DevOps](https://img.shields.io/badge/Tools-DevOps-informational?style=flat&logo=code&logoColor=white&color=000000)  
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 ![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=326CE5)
 ![GitHub Actions](https://img.shields.io/badge/Tools-GitHub%20Actions-informational?style=flat&logo=githubactions&logoColor=white&color=2088FF)
 ![GitLab CI/CD](https://img.shields.io/badge/Tools-GitLab%20CI/CD-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121)  
 ![Azure](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=azure&logoColor=white&color=0078D4)
-
-![Tools](https://img.shields.io/badge/Tools-Tools-informational?style=flat&logo=code&logoColor=white&color=000000)  
-![Jira](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=0052CC)
 
 </span>
 </div>
