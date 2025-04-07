@@ -13,7 +13,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ## What am I doing ? 🚀
 🔭 I am happy to discover new technologies  
-🌱 I’m learning AI, DevOps and Cloud Services
+🌱 I’m learning AI, DevOps Rust and Cloud Services
 
 ## Projects that I’m working on 💻
 🔧 I am currently developing [**Luxoria**](https://github.com/LuxoriaSoft/Luxoria), an open-source all-in-one photography solution built with WinUI 3. This project was initiated with some friends to create a useful tool for photographers. Luxoria is modular, allowing anyone to add modules to extend its features.
