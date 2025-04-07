@@ -26,7 +26,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
 ![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=00599C)
 ![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=239120)  
-![Swift](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=FA7343)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6)  
 
@@ -35,7 +34,6 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 ![Node.js](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933)
 ![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000000)
 ![ASP.NET](https://img.shields.io/badge/Code-ASP.NET-informational?style=flat&logo=dotnet&logoColor=white&color=512BD4)
-![SwiftUI](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=FA7343)
 
 ![DevOps](https://img.shields.io/badge/Tools-DevOps-informational?style=flat&logo=code&logoColor=white&color=000000)  
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
