@@ -5,7 +5,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ## Who am I ? 🌍
 👋 I am Quentin ERDINGER  
-💬 I am 21 years old  
+💬 I am 22 years old  
 🌱 I am currently studying at Epitech Strasbourg and doing a Masters at the University of Kent (Msc Advanced Computer Science)
 
 ## Connect with Me 🤝
@@ -13,7 +13,7 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ## What am I doing ? 🚀
 🔭 I am happy to discover new technologies  
-🌱 I’m learning AI, DevOps Rust and Cloud Services
+🌱 I’m learning AI & ML, backend development (.NET, Cobol), Rust and Cloud Services
 
 ## Projects that I’m working on 💻
 🔧 I am currently developing [**Luxoria**](https://github.com/LuxoriaSoft/Luxoria), an open-source all-in-one photography solution built with WinUI 3. This project was initiated with some friends to create a useful tool for photographers. Luxoria is modular, allowing anyone to add modules to extend its features.
