@@ -17,6 +17,8 @@ I'm a passionate developer who loves creating innovative solutions and exploring
 
 ## Projects that I’m working on 💻
 🔧 I am currently developing [**Luxoria**](https://github.com/LuxoriaSoft/Luxoria), an open-source all-in-one photography solution built with WinUI 3. This project was initiated with some friends to create a useful tool for photographers. Luxoria is modular, allowing anyone to install/add modules to extend its features via a embedded marketplace.
+Current development focuses on improving safety, modularity, backward compatibility, performance, and expanding Computer Vision and AI-powered features. [Download latest version](https://github.com/luxoriasoft/luxoria/releases/latest)  
+Open-source contributions brought : Nuget librairies, listed at : [On Nuget.org](https://www.nuget.org/profiles/Luxoria)  
 
 ## Technologies & Tools 🛠️
 <div align="center">
